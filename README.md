@@ -13,7 +13,7 @@
 ### Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/satvik-poojary-74aa891bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satvik-poojary-74aa891bb" height="30" width="40" /></a>
-<a href="[https://instagram.com/satvik_ap](https://www.instagram.com/rip_sat7/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="satvik_ap" height="30" width="40" /></a>
+<a href="https://instagram.com/satvik_ap(https://www.instagram.com/rip_sat7/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="satvik_ap" height="30" width="40" /></a>
 </p>
 
 ### Languages and Tools:
